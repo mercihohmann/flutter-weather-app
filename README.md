@@ -12,3 +12,6 @@ This repository was made for a [tutorial series](https://youtu.be/GwIJdJD4Bc4).
 
 * [Part 3](https://github.com/mercihohmann/flutter-weather-app-part3) - Improving the UI, error correction, usability, app icon
 
+* [Part 4](https://github.com/mercihohmann/flutter-weather-app-part4) - Current position with geolocation, fixing bottom overflowed when keyboard shows
+
+
