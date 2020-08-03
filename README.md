@@ -15,4 +15,5 @@ This repository was made for a [tutorial series](https://youtu.be/GwIJdJD4Bc4).
 
 * [Part 4](https://github.com/mercihohmann/flutter-weather-app-part4) - Current position with geolocation, fixing bottom overflowed when keyboard shows
 
+* [Part 5](https://github.com/mercihohmann/flutter-weather-app-part5) - Seven day forecast
 
