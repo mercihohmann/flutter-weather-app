@@ -1,7 +1,7 @@
 # Weather App
 
-![final app](https://github.com/mercihohmann/Images/blob/master/weather_app1.png)
-![final app after part four](https://github.com/mercihohmann/Images/blob/master/weather_app_updated1.png)
+![final app](https://github.com/mercihohmann/Images/blob/master/weather_app2.png)
+
 
 This repository was made for a [tutorial series](https://youtu.be/GwIJdJD4Bc4). 
 
